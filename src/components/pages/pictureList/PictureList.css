@@ -1,0 +1,8 @@
+.listPictures h1 {
+    text-transform: capitalize;
+    text-align: center;
+    margin: 40px 0;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+} 
+

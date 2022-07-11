@@ -1,0 +1,11 @@
+.navbar-main{
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+    padding: 0 20px;
+}
+
+.navbar-main:hover {
+    color: white;
+}
