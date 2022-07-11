@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Ejercicio técnico sencillo para fines laborales. Se ha desarrollado usando React, css.
+Ejercicio técnico sencillo para fines laborales. Se ha desarrollado usando React como libreria, bootstrap react para el grid y CSS3 para aplicar estilos.
 
 ## Cómo lanzar
 
